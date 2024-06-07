@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Paula Rodriguez 	🌙 </h1>
 <h3 align="center">Estudiante de Ingeniería en Sistemas de información 💻</h3>
-<p> Soy estudiante de ingenieria que disfruta aprender tecnologias y herramientas, mi objetivo es mostrar en este repositorio los trabajos que vaya realizando y seguir perfeccionandome :) </p>
 
 - 📚I study at <a target="_blank" href="[www.linkedin.com/in/paula-rodriguez-48479122b](https://www.linkedin.com/school/universidad-tecnologica-nacional/)" >Universidad Tecnologica Nacional </a>.
 - 🌱 I’m currently learning **database, ux/ui design, react**
